@@ -1,424 +1,424 @@
 ﻿osm_id,code,fclass,name,LAT,LONG
-246397026,5601,railway_station,Bangalore Cantonment,"077° 35' 52.8""""  ","12° 59' 37.27"""" "
-248543525,5601,railway_station,Bisanattam,"078° 14' 59.49""""  ","12° 50' 32.08"""" "
-253454039,5601,railway_station,Bengaluru  East,"077° 37' 6.04""""  ","13° 00' 4.13"""" "
-298609247,5601,railway_station,Mangaluru Junction,"074° 52' 45.23""""  ","12° 51' 59.86"""" "
-298611723,5601,railway_station,Mulki,"074° 48' 18.98""""  ","13° 04' 8.25"""" "
-300062249,5601,railway_station,Padil,"074° 53' 39.7""""  ","12° 52' 31.07"""" "
-308061696,5601,railway_station,Hejjala,"077° 25' 5.98""""  ","12° 50' 54.28"""" "
-308062102,5601,railway_station,Kengeri,"077° 29' 1.52""""  ","12° 55' 3.57"""" "
-308062851,5601,railway_station,Nayandahalli,"077° 31' 16.36""""  ","12° 56' 28.77"""" "
-308073351,5601,railway_station,Chikka Banavara,"077° 30' 20.29""""  ","13° 04' 28.84"""" "
-338274462,5601,railway_station,Yelahanka Junction,"077° 35' 30.82""""  ","13° 06' 18.02"""" "
-389475236,5601,railway_station,Thondebhavi,"077° 30' 53.84""""  ","13° 30' 14.37"""" "
-389475413,5601,railway_station,Hirehalli,"077° 11' 19.62""""  ","13° 16' 50.39"""" "
-389475419,5601,railway_station,Kyatsandra,"077° 08' 51.89""""  ","13° 18' 56.2"""" "
-443807288,5601,railway_station,Banaswadi,"077° 37' 41.28""""  ","13° 00' 21.01"""" "
-443811552,5601,railway_station,Channasandra,"077° 39' 46.13""""  ","13° 00' 42.68"""" "
-553051322,5601,railway_station,Chamarajapuram,"076° 38' 16.3""""  ","12° 17' 53.36"""" "
-571578291,5601,railway_station,Padubidri,"074° 46' 5.03""""  ","13° 11' 49.16"""" "
-571579127,5601,railway_station,Bhatkal,"074° 33' 56.27""""  ","13° 59' 21.68"""" "
-571579771,5601,railway_station,Karwar,"074° 10' 57.33""""  ","14° 49' 12.89"""" "
-582437498,5601,railway_station,Belagavi,"074° 30' 32.2""""  ","15° 50' 56.6"""" "
-617332502,5601,railway_station,Ramanagaram,"077° 17' 1.46""""  ","12° 43' 15.77"""" "
-653938640,5601,railway_station,Maddur,"077° 02' 58.92""""  ","12° 36' 16.82"""" "
-654115832,5601,railway_station,Londa Junction,"074° 29' 43.79""""  ","15° 26' 56.22"""" "
-654125698,5601,railway_station,Alnavar Junction,"074° 44' 17.89""""  ","15° 25' 28.24"""" "
-654130310,5601,railway_station,Kundgol,"075° 15' 0.16""""  ","15° 15' 31.98"""" "
-654132674,5601,railway_station,Ranebennuru,"075° 38' 8.61""""  ","14° 37' 33.2"""" "
-654140148,5601,railway_station,Sambre,"074° 34' 37.95""""  ","15° 53' 3.54"""" "
-654209479,5601,railway_station,Bhanapur,"076° 02' 20.3""""  ","15° 23' 11.65"""" "
-655264344,5601,railway_station,Guledgudda Road,"075° 41' 40.4""""  ","16° 04' 2.3"""" "
-655264380,5601,railway_station,Bagalkot,"075° 41' 59.75""""  ","16° 10' 45.56"""" "
-655290802,5601,railway_station,Almatti,"075° 54' 4.41""""  ","16° 20' 42.17"""" "
-655301239,5601,railway_station,Vijayapura,"075° 44' 22.12""""  ","16° 49' 49.3"""" "
-659537076,5601,railway_station,Chitradurga,"076° 23' 11.3""""  ","14° 13' 50.87"""" "
-666623896,5601,railway_station,Shrirangapattana,"076° 40' 40.34""""  ","12° 25' 26.92"""" "
-667473810,5601,railway_station,Channarayapatna,"076° 23' 38.27""""  ","12° 53' 33.77"""" "
-669015914,5601,railway_station,Dharwad,"075° 00' 6.97""""  ","15° 26' 32.77"""" "
-670960045,5601,railway_station,Bantawal,"075° 02' 2.73""""  ","12° 52' 41.4"""" "
-672726408,5601,railway_station,Minchnal,"075° 49' 18.42""""  ","16° 58' 14.02"""" "
-672865414,5601,railway_station,Basavana Bagewadi Road,"075° 49' 41.83""""  ","16° 28' 49.08"""" "
-687187136,5601,railway_station,Yadgir,"077° 07' 46.93""""  ","16° 44' 40.74"""" "
-687187467,5601,railway_station,Shahabad,"076° 56' 36.23""""  ","17° 07' 18.96"""" "
-687777818,5601,railway_station,Nanjangud Town,"076° 41' 3.63""""  ","12° 07' 19.45"""" "
-695074547,5601,railway_station,Heelalige,"077° 42' 39.86""""  ","12° 48' 47.84"""" "
-695086486,5601,railway_station,Anekal Road,"077° 42' 37.91""""  ","12° 43' 24.99"""" "
-701554068,5601,railway_station,Nimbal,"075° 51' 37.21""""  ","17° 07' 7.66"""" "
-702374965,5601,railway_station,Bidar,"077° 30' 55.56""""  ","17° 54' 42.79"""" "
-706967230,5601,railway_station,Kolar,"078° 07' 58.54""""  ","13° 07' 26.37"""" "
-707061042,5601,railway_station,Chamarajanagar,"076° 55' 58.16""""  ","11° 56' 4.56"""" "
-707126837,5601,railway_station,Kabaka Puttur,"075° 12' 17.01""""  ","12° 46' 7.37"""" "
-707126938,5601,railway_station,Kadagaravalli,"075° 41' 45.65""""  ","12° 50' 16.94"""" "
-707127170,5601,railway_station,Yedekumeri,"075° 39' 50.4""""  ","12° 49' 23.61"""" "
-707132579,5601,railway_station,Munirabad,"076° 20' 10.98""""  ","15° 18' 28.83"""" "
-707255911,5601,railway_station,Talaguppa,"074° 54' 51.87""""  ","14° 12' 51.52"""" "
-710027160,5601,railway_station,Khanapur Junction,"077° 23' 3.2""""  ","17° 56' 33.0"""" "
-718549537,5601,railway_station,Chikjajur Junction,"076° 08' 23.62""""  ","14° 07' 25.76"""" "
-737744285,5601,railway_station,Chikballapur,"077° 43' 55.72""""  ","13° 25' 38.79"""" "
-738268653,5601,railway_station,Hagari Bommanahalli,"076° 12' 31.36""""  ","15° 02' 59.99"""" "
-738268811,5601,railway_station,Kotturu,"076° 12' 44.5""""  ","14° 49' 31.67"""" "
-738269167,5601,railway_station,Ranjitpura,"076° 35' 58.39""""  ","15° 03' 22.0"""" "
-738274019,5601,railway_station,Swamihalli,"076° 36' 32.05""""  ","14° 58' 34.14"""" "
-738274431,5601,railway_station,Yeshwanthnagar,"076° 30' 9.75""""  ","15° 02' 21.52"""" "
-794150286,5601,railway_station,Gubbi,"076° 56' 19.52""""  ","13° 19' 17.07"""" "
-795583901,5601,railway_station,Sedam,"077° 17' 8.5""""  ","17° 10' 52.35"""" "
-841763375,5601,railway_station,Dodballapur,"077° 33' 1.82""""  ","13° 16' 46.88"""" "
-853082530,5601,railway_station,Mallasandra,"077° 00' 55.58""""  ","13° 20' 5.9"""" "
-853131485,5601,railway_station,Tumakuru,"077° 06' 7.05""""  ","13° 20' 2.04"""" "
-962987530,5601,railway_station,Davanagere,"075° 55' 10.45""""  ","14° 28' 4.73"""" "
-992634868,5601,railway_station,Ashokapuram,"076° 38' 9.64""""  ","12° 16' 26.72"""" "
-992989867,5601,railway_station,Krishnarajasagara,"076° 34' 1.84""""  ","12° 24' 3.74"""" "
-993005071,5601,railway_station,Naganahalli,"076° 39' 2.79""""  ","12° 22' 43.06"""" "
-1074968410,5601,railway_station,Nalwar,"077° 01' 9.99""""  ","16° 56' 9.71"""" "
-1102564020,5601,railway_station,Bhadravati,"075° 42' 12.49""""  ","13° 50' 33.51"""" "
-1110586299,5601,railway_station,Devangonthi,"077° 49' 52.66""""  ","12° 59' 6.53"""" "
-1126574956,5601,railway_station,Raichur,"077° 20' 20.39""""  ","16° 11' 34.09"""" "
-1134275133,5601,railway_station,Gauribidanur,"077° 30' 47.29""""  ","13° 36' 48.42"""" "
-1153239543,5601,railway_station,Talaku,"076° 40' 30.26""""  ","14° 26' 45.9"""" "
-1153239740,5601,railway_station,Molakalmuru,"076° 44' 46.39""""  ","14° 42' 34.71"""" "
-1153239883,5601,railway_station,Arsikere Junction,"076° 15' 11.52""""  ","13° 18' 49.62"""" "
-1153239903,5601,railway_station,Daroji,"076° 42' 4.01""""  ","15° 13' 35.98"""" "
-1153239943,5601,railway_station,Toranagallu Junction,"076° 39' 47.31""""  ","15° 12' 10.56"""" "
-1153239946,5601,railway_station,Challakere,"076° 39' 35.76""""  ","14° 18' 54.8"""" "
-1153240249,5601,railway_station,Gadiganuru,"076° 35' 57.24""""  ","15° 13' 6.77"""" "
-1153255888,5601,railway_station,Koppala,"076° 08' 41.66""""  ","15° 21' 13.93"""" "
-1172868014,5601,railway_station,Kadur Junction,"076° 00' 31.33""""  ","13° 33' 0.9"""" "
-1172868016,5601,railway_station,Chikkamagaluru,"075° 47' 19.38""""  ","13° 18' 11.57"""" "
-1177155562,5601,railway_station,Baiyyappanahalli Junction,"077° 39' 6.17""""  ","12° 59' 28.35"""" "
-1177705836,5601,railway_station,Whitefield,"077° 45' 41.12""""  ","12° 59' 47.04"""" "
-1191359734,5601,railway_station,Khanapur,"074° 29' 58.93""""  ","15° 38' 15.99"""" "
-1225732184,5601,railway_station,Ambewadi,"074° 37' 2.76""""  ","15° 16' 22.48"""" "
-1282829831,5601,railway_station,Devanahalli,"077° 42' 19.47""""  ","13° 14' 51.15"""" "
-1365827451,5601,railway_station,Kadakola,"076° 39' 49.99""""  ","12° 11' 26.95"""" "
-1368272943,5601,railway_station,Sagar Jambagaru,"075° 01' 24.65""""  ","14° 10' 12.3"""" "
-1377759098,5601,railway_station,Navalur,"075° 03' 22.33""""  ","15° 24' 54.76"""" "
-1384237103,5601,railway_station,Kumta,"074° 25' 16.48""""  ","14° 26' 14.07"""" "
-1384317801,5601,railway_station,Gokarna Road,"074° 22' 3.82""""  ","14° 35' 1.85"""" "
-1384974167,5601,railway_station,Honnavar,"074° 25' 56.65""""  ","14° 18' 57.24"""" "
-1404460876,5601,railway_station,Sidlagatta,"077° 51' 50.95""""  ","13° 23' 31.46"""" "
-1422424831,5601,railway_station,Udupi,"074° 46' 15.0""""  ","13° 20' 9.86"""" "
-1462153602,5601,railway_station,Gadag Junction,"075° 38' 31.78""""  ","15° 26' 11.31"""" "
-1463736886,5601,railway_station,Lottegollahalli,"077° 33' 47.1""""  ","13° 02' 36.49"""" "
-1465593508,5601,railway_station,Hulkoti,"075° 31' 43.98""""  ","15° 25' 59.47"""" "
-1467829837,5601,railway_station,Harihar,"075° 48' 39.77""""  ","14° 30' 55.27"""" "
-1472190894,5601,railway_station,Chikodi Road,"074° 46' 10.84""""  ","16° 22' 19.18"""" "
-1473027333,5601,railway_station,Narasambudhi,"076° 44' 58.21""""  ","12° 04' 31.87"""" "
-1489649987,5601,railway_station,Pandavapura,"076° 40' 51.84""""  ","12° 27' 49.6"""" "
-1491693696,5601,railway_station,Malkhaid Road,"077° 10' 27.49""""  ","17° 08' 50.68"""" "
-1516238750,5601,railway_station,Kudachi,"074° 51' 30.28""""  ","16° 37' 27.44"""" "
-1516238751,5601,railway_station,Ugar Khurd,"074° 49' 15.71""""  ","16° 40' 12.43"""" "
-1516239415,5601,railway_station,Raybag,"074° 48' 25.6""""  ","16° 29' 1.34"""" "
-1561036161,5601,railway_station,Hosapete Junction,"076° 23' 11.7""""  ","15° 17' 11.53"""" "
-1576973953,5601,railway_station,Madavara,"077° 28' 22.1""""  ","13° 03' 26.72"""" "
-1576973954,5601,railway_station,Chikkabidarakallu,"077° 29' 16.5""""  ","13° 03' 8.5"""" "
-1576973980,5601,railway_station,Manjunathanagara,"077° 29' 40.01""""  ","13° 03' 0.32"""" "
-1596062941,5601,railway_station,Humanabad,"077° 08' 21.73""""  ","17° 46' 17.43"""" "
-1600080681,5601,railway_station,Balganur,"075° 36' 9.97""""  ","15° 35' 40.93"""" "
-1604664691,5601,railway_station,Banni Koppa,"075° 56' 30.31""""  ","15° 24' 23.39"""" "
-1636610854,5601,railway_station,Tiptur,"076° 28' 32.28""""  ","13° 15' 20.73"""" "
-1670052496,5601,railway_station,Gudageri,"075° 21' 34.39""""  ","15° 07' 28.55"""" "
-1672987435,5601,railway_station,Sakleshpur,"075° 46' 44.22""""  ","12° 56' 43.36"""" "
-1676721983,5601,railway_station,Ganagapur Road,"076° 35' 22.21""""  ","17° 20' 26.68"""" "
-1678218711,5601,railway_station,Asnoti,"074° 08' 51.34""""  ","14° 52' 34.65"""" "
-1682747882,5601,railway_station,Indi Road,"075° 55' 7.93""""  ","17° 12' 39.06"""" "
-1688119769,5601,railway_station,Castle Rock,"074° 20' 2.01""""  ","15° 23' 55.51"""" "
-1688172817,5601,railway_station,Mayakonda,"076° 05' 13.25""""  ","14° 16' 40.74"""" "
-1692785682,5601,railway_station,Surathkal,"074° 48' 19.49""""  ","12° 59' 24.53"""" "
-1696139855,5601,railway_station,Krishnaraja Nagar,"076° 23' 18.31""""  ","12° 26' 41.97"""" "
-1699868072,5601,railway_station,Bisale Halli,"075° 58' 1.37""""  ","13° 28' 53.14"""" "
-1715653825,5601,railway_station,Hole Alur,"075° 38' 48.29""""  ","15° 49' 12.97"""" "
-1716178626,5601,railway_station,Kundapura,"074° 43' 43.27""""  ","13° 36' 48.15"""" "
-1722769520,5601,railway_station,Coromandel,"078° 15' 28.1""""  ","12° 58' 32.36"""" "
-1722803892,5601,railway_station,Yediyur,"076° 51' 49.9""""  ","12° 58' 44.4"""" "
-1783231964,5601,railway_station,Hole Narsipur,"076° 14' 47.88""""  ","12° 47' 7.31"""" "
-1801510237,5601,railway_station,Banasandra,"076° 39' 38.18""""  ","13° 15' 55.99"""" "
-1801510305,5601,railway_station,Ammasandra,"076° 42' 43.44""""  ","13° 15' 53.78"""" "
-1814580873,5601,railway_station,Kardi,"076° 34' 20.32""""  ","13° 16' 1.89"""" "
-1814581414,5601,railway_station,Banashankari,"076° 31' 28.75""""  ","13° 15' 59.91"""" "
-1818646444,5601,railway_station,Sampige Road,"076° 45' 44.17""""  ","13° 16' 15.47"""" "
-1818651789,5601,railway_station,Nittur,"076° 51' 21.43""""  ","13° 18' 9.53"""" "
-1844248845,5601,railway_station,Oorgaum,"078° 15' 35.94""""  ","12° 57' 15.42"""" "
-1852780582,5601,railway_station,Desur,"074° 29' 54.83""""  ","15° 45' 10.27"""" "
-1861233135,5601,railway_station,Channapatna,"077° 12' 14.02""""  ","12° 39' 33.74"""" "
-1888282487,5601,railway_station,Murdeshwar,"074° 30' 19.52""""  ","14° 06' 2.95"""" "
-1923477242,5601,railway_station,Birur Junction,"075° 58' 22.85""""  ","13° 35' 35.63"""" "
-1966508764,5601,railway_station,Masarahalli,"075° 43' 50.08""""  ","13° 48' 38.11"""" "
-1967082966,5601,railway_station,Donigal,"075° 44' 5.31""""  ","12° 54' 16.34"""" "
-1976851798,5601,railway_station,Honnavalli Road,"076° 22' 5.91""""  ","13° 16' 31.41"""" "
-1984385300,5601,railway_station,Neralakatte,"075° 07' 38.12""""  ","12° 49' 0.33"""" "
-2034603706,5601,railway_station,Nelamangala,"077° 23' 33.01""""  ","13° 06' 43.87"""" "
-2101360284,5601,railway_station,Yermaras,"077° 20' 50.12""""  ","16° 16' 21.7"""" "
-2122590354,5601,railway_station,Sakharayapatna,"075° 55' 40.27""""  ","13° 25' 47.86"""" "
-2129092124,5601,railway_station,Harapanahalli,"075° 59' 6.89""""  ","14° 46' 25.56"""" "
-2140205532,5601,railway_station,Bidadi,"077° 23' 24.62""""  ","12° 48' 2.24"""" "
-2266574834,5601,railway_station,Aralaguppe,"076° 36' 48.41""""  ","13° 15' 11.61"""" "
-2269517698,5601,railway_station,Banavar,"076° 08' 25.73""""  ","13° 23' 44.97"""" "
-2418722563,5601,railway_station,Anandapuram,"075° 12' 35.48""""  ","14° 04' 29.08"""" "
-2428405498,5601,railway_station,Ghataprabha,"074° 45' 35.75""""  ","16° 14' 27.54"""" "
-2454214993,5601,railway_station,Nandikoor,"074° 48' 21.76""""  ","13° 07' 57.5"""" "
-2486823395,5601,railway_station,Malur,"077° 56' 19.45""""  ","12° 59' 34.27"""" "
-2528520392,5601,railway_station,Hirenanduru,"076° 52' 19.71""""  ","17° 15' 29.45"""" "
-2548066537,5601,railway_station,Ankola,"074° 19' 54.93""""  ","14° 38' 43.29"""" "
-2548066547,5601,railway_station,Barkur,"074° 45' 35.53""""  ","13° 28' 37.3"""" "
-2548066552,5601,railway_station,Bijoor,"074° 38' 33.43""""  ","13° 49' 19.22"""" "
-2548066555,5601,railway_station,Harwada,"074° 15' 33.83""""  ","14° 44' 25.4"""" "
-2548066556,5601,railway_station,Manki,"074° 29' 37.24""""  ","14° 10' 28.72"""" "
-2548066558,5601,railway_station,Senapura,"074° 41' 4.1""""  ","13° 43' 4.35"""" "
-2554438211,5601,railway_station,Haveri,"075° 24' 40.12""""  ","14° 47' 41.11"""" "
-2559416716,5601,railway_station,Hunasenahalli,"077° 56' 48.17""""  ","13° 24' 1.18"""" "
-2559419936,5601,railway_station,Chintamani,"078° 03' 14.38""""  ","13° 24' 39.56"""" "
-2591684348,5601,railway_station,Thokur,"074° 49' 46.35""""  ","12° 57' 48.32"""" "
-2629037602,5601,railway_station,Hanakere,"076° 58' 51.68""""  ","12° 33' 56.12"""" "
-2669084978,5601,railway_station,Krantivira Sangolli Rayanna (Bengaluru),"077° 34' 10.42""""  ","12° 58' 41.43"""" "
-2669084989,5601,railway_station,Hubballi Junction,"075° 08' 57.22""""  ","15° 21' 0.44"""" "
-2671295574,5601,railway_station,Mangaluru Central,"074° 50' 35.66""""  ","12° 51' 48.25"""" "
-2671295575,5601,railway_station,Mysore Junction,"076° 38' 42.42""""  ","12° 18' 56.66"""" "
-2850694071,5601,railway_station,Bageshapura,"076° 13' 45.61""""  ","13° 08' 35.6"""" "
-2958815992,5601,railway_station,Lingeri,"077° 11' 23.02""""  ","16° 40' 7.55"""" "
-2958863878,5601,railway_station,Saidapur,"077° 15' 0.01""""  ","16° 34' 14.83"""" "
-2967308931,5601,railway_station,Yesvantpur Junction,"077° 33' 2.77""""  ","13° 01' 25.58"""" "
-2967312447,5601,railway_station,Hebbal,"077° 35' 10.5""""  ","13° 02' 33.17"""" "
-2970003323,5601,railway_station,Chiksugur,"077° 20' 41.44""""  ","16° 20' 9.34"""" "
-2970003324,5601,railway_station,Yadalapur,"077° 19' 38.84""""  ","16° 23' 5.7"""" "
-2973023222,5601,railway_station,Matmari,"077° 18' 8.92""""  ","16° 02' 47.4"""" "
-2973023223,5601,railway_station,Marichethal,"077° 18' 33.98""""  ","16° 06' 35.59"""" "
-3057101107,5601,railway_station,Thangundi,"077° 04' 4.62""""  ","16° 48' 12.24"""" "
-3074998903,5601,railway_station,Kodaganuru,"076° 02' 0.97""""  ","14° 19' 49.31"""" "
-3075002340,5601,railway_station,Sasalu,"076° 06' 54.07""""  ","14° 12' 39.99"""" "
-3165126694,5601,railway_station,Tunga Bhadra Dam,"076° 21' 15.07""""  ","15° 15' 46.88"""" "
-3191826727,5601,railway_station,Sivapur,"075° 55' 42.06""""  ","13° 40' 13.68"""" "
-3191826728,5601,railway_station,Tarikere Junction,"075° 48' 42.69""""  ","13° 42' 43.0"""" "
-3198271987,5601,railway_station,Amaravathi Colony Junction,"075° 51' 7.65""""  ","14° 29' 56.33"""" "
-3220285971,5601,railway_station,Shantigrama,"076° 12' 19.66""""  ","12° 59' 4.62"""" "
-3470837085,5601,railway_station,Shravanabelagola,"076° 27' 56.41""""  ","12° 52' 17.02"""" "
-3470859796,5601,railway_station,Hassan Junction,"076° 07' 2.59""""  ","13° 00' 12.19"""" "
-3500758393,5601,railway_station,Mandya,"076° 53' 48.12""""  ","12° 31' 43.98"""" "
-3751576373,5601,railway_station,Muddalinganahalli,"077° 17' 39.95""""  ","13° 14' 34.29"""" "
-3753356903,5601,railway_station,Habhanghatta,"076° 14' 59.96""""  ","13° 13' 37.24"""" "
-3879960394,5601,railway_station,Mugad,"074° 54' 17.77""""  ","15° 26' 51.6"""" "
-4011081968,5601,railway_station,Ginigera,"076° 14' 51.28""""  ","15° 20' 52.73"""" "
-4028153528,5601,railway_station,Bannihatti,"076° 37' 20.5""""  ","15° 08' 40.08"""" "
-4028158801,5601,railway_station,Papinayaknahalli,"076° 29' 26.82""""  ","15° 14' 8.45"""" "
-4029017821,5601,railway_station,Tinai Ghat,"074° 24' 8.68""""  ","15° 26' 55.2"""" "
-4108417932,5601,railway_station,Malleswaram,"077° 33' 48.51""""  ","13° 00' 2.27"""" "
-4133754822,5601,railway_station,Marikuppam,"078° 15' 49.46""""  ","12° 55' 7.66"""" "
-4142582908,5601,railway_station,Srinivasapura,"078° 12' 24.15""""  ","13° 19' 43.8"""" "
-4313065921,5601,railway_station,Chittapura,"077° 05' 25.92""""  ","17° 07' 11.43"""" "
-4314660390,5601,railway_station,Ballari Cantonment,"076° 53' 0.64""""  ","15° 09' 29.71"""" "
-4316145885,5601,railway_station,Yeliyur,"076° 49' 43.18""""  ","12° 30' 35.62"""" "
-4340278527,5601,railway_station,Kulali,"076° 28' 13.7""""  ","17° 21' 26.04"""" "
-4397913105,5601,railway_station,Bennihalli,"076° 07' 8.49""""  ","14° 47' 15.36"""" "
-4411002319,5601,railway_station,Kalaburagi Junction,"076° 49' 32.28""""  ","17° 18' 53.74"""" "
-4450926674,5601,railway_station,Mallapur,"075° 36' 38.66""""  ","15° 40' 21.22"""" "
-4569877375,5601,railway_station,Ullal,"074° 51' 17.59""""  ","12° 47' 32.52"""" "
-4597665378,5601,railway_station,Holalkere,"076° 07' 51.26""""  ","14° 02' 24.73"""" "
-4597673369,5601,railway_station,Ramagiri,"076° 07' 31.77""""  ","13° 56' 53.79"""" "
-4597679145,5601,railway_station,Hosadurga Road,"076° 07' 59.23""""  ","13° 51' 45.52"""" "
-4597684205,5601,railway_station,Shivani,"076° 03' 31.33""""  ","13° 48' 42.26"""" "
-4597685294,5601,railway_station,Ajjampura,"076° 00' 37.07""""  ","13° 43' 51.88"""" "
-4597696823,5601,railway_station,Nagavangala,"075° 59' 29.73""""  ","13° 39' 52.51"""" "
-4597939355,5601,railway_station,Amritapura,"076° 14' 37.99""""  ","14° 08' 21.33"""" "
-4615639310,5601,railway_station,Balenahalli,"076° 33' 16.56""""  ","14° 14' 40.1"""" "
-4615790622,5601,railway_station,Bommagundanakere,"076° 40' 49.21""""  ","14° 35' 16.1"""" "
-4705536596,5601,railway_station,Bhalki,"077° 13' 41.3""""  ","18° 02' 49.45"""" "
-4757898320,5601,railway_station,Solur,"077° 15' 31.22""""  ","13° 04' 11.29"""" "
-4761087279,5601,railway_station,Wadi Junction,"076° 59' 30.82""""  ","17° 03' 8.26"""" "
-4838807292,5601,railway_station,Adihalli,"076° 19' 33.59""""  ","13° 17' 46.01"""" "
-4855254016,5601,railway_station,Alur,"076° 00' 1.46""""  ","12° 58' 54.23"""" "
-4914851718,5601,railway_station,Lakhmapur,"075° 37' 37.97""""  ","15° 52' 11.59"""" "
-5005536730,5601,railway_station,Kunigal,"077° 00' 39.9""""  ","13° 00' 59.92"""" "
-5186077698,5601,railway_station,Kamasamudram,"078° 12' 2.03""""  ","12° 52' 49.78"""" "
-5239591121,5601,railway_station,Shiroor,"074° 35' 39.29""""  ","13° 55' 51.5"""" "
-5277139349,5601,railway_station,Mandagere,"076° 22' 44.43""""  ","12° 43' 46.31"""" "
-5303386567,5601,railway_station,Rajanukunte,"077° 33' 56.13""""  ","13° 10' 28.67"""" "
-5303386568,5601,railway_station,Oddarahalli,"077° 32' 28.03""""  ","13° 20' 45.81"""" "
-5303386569,5601,railway_station,Makalidurga,"077° 30' 35.35""""  ","13° 24' 35.76"""" "
-5303386570,5601,railway_station,Someshwara,"077° 30' 45.79""""  ","13° 33' 37.25"""" "
-5358242144,5601,railway_station,Pachhapur,"074° 40' 15.36""""  ","16° 04' 49.61"""" "
-5358242178,5601,railway_station,Sulebhavi,"074° 38' 16.9""""  ","15° 54' 40.4"""" "
-5416750422,5601,railway_station,B.G Nagar,"076° 43' 59.26""""  ","12° 58' 5.84"""" "
-5679106393,5601,railway_station,Harlapur,"075° 47' 59.52""""  ","15° 26' 8.01"""" "
-5679128581,5601,railway_station,Kyatanakeri Road,"075° 49' 13.92""""  ","17° 03' 8.67"""" "
-5704202636,5601,railway_station,Sagarakatte,"076° 28' 42.87""""  ","12° 25' 23.14"""" "
-5760183640,5601,railway_station,Tyakal,"078° 04' 16.01""""  ","12° 59' 4.5"""" "
-5760183667,5601,railway_station,Bangarpet Junction,"078° 10' 41.61""""  ","12° 59' 7.78"""" "
-5760197744,5601,railway_station,Whitefield (Kadugodi),"077° 45' 28.62""""  ","12° 59' 44.67"""" "
-5760197745,5601,railway_station,Hopefarm Channasandra,"077° 45' 13.69""""  ","12° 59' 14.43"""" "
-5760197749,5601,railway_station,Pattandur Agrahara,"077° 44' 15.98""""  ","12° 59' 15.5"""" "
-5760197751,5601,railway_station,Sri Sathya Sai Hospital,"077° 43' 39.13""""  ","12° 58' 52.3"""" "
-5760197754,5601,railway_station,Nallurahalli,"077° 43' 29.58""""  ","12° 58' 35.91"""" "
-5760197755,5601,railway_station,Kundalahalli,"077° 42' 56.01""""  ","12° 58' 39.34"""" "
-5760197757,5601,railway_station,Seetharampalya,"077° 42' 31.63""""  ","12° 58' 51.08"""" "
-5760197761,5601,railway_station,Hoodi,"077° 42' 40.77""""  ","12° 59' 19.69"""" "
-5760197762,5601,railway_station,Garudacharpalya,"077° 42' 13.24""""  ","12° 59' 36.42"""" "
-5760197764,5601,railway_station,Singayyanapalya,"077° 41' 33.78""""  ","12° 59' 47.56"""" "
-5760197765,5601,railway_station,Krishnarajapura,"077° 40' 39.61""""  ","12° 59' 59.65"""" "
-5760197766,5601,railway_station,Benniganahalli,"077° 40' 6.46""""  ","12° 59' 47.46"""" "
-5764377154,5601,railway_station,Virapur,"077° 07' 55.23""""  ","15° 09' 31.92"""" "
-5764377157,5601,railway_station,Hagari,"077° 03' 18.94""""  ","15° 09' 3.95"""" "
-5764377544,5601,railway_station,Kusugal,"075° 13' 42.62""""  ","15° 22' 19.79"""" "
-5764377675,5601,railway_station,Hebsur,"075° 17' 9.3""""  ","15° 25' 23.58"""" "
-5764378051,5601,railway_station,Annigeri,"075° 26' 0.74""""  ","15° 25' 56.75"""" "
-5960788724,5601,railway_station,Dasarahalli,"077° 30' 45.19""""  ","13° 02' 35.74"""" "
-5960788725,5601,railway_station,Jalahalli,"077° 31' 11.05""""  ","13° 02' 21.88"""" "
-5960788726,5601,railway_station,Srirampura,"077° 33' 47.51""""  ","12° 59' 47.49"""" "
-6050412687,5601,railway_station,Jokatte,"074° 51' 12.84""""  ","12° 57' 34.73"""" "
-6064361419,5601,railway_station,Varadapura,"078° 11' 29.2""""  ","12° 55' 20.82"""" "
-6065355651,5601,railway_station,Maralahalli,"078° 07' 27.69""""  ","12° 59' 13.02"""" "
-6065388673,5601,railway_station,Byatrayanahalli,"078° 01' 2.98""""  ","12° 59' 43.9"""" "
-6068833789,5601,railway_station,Chinnakotte,"078° 13' 34.23""""  ","12° 58' 52.42"""" "
-6068892361,5601,railway_station,Champion,"078° 15' 46.59""""  ","12° 56' 10.94"""" "
-6069958871,5601,railway_station,Viduraswattha,"077° 30' 34.11""""  ","13° 39' 59.59"""" "
-6072074301,5601,railway_station,Gottihalli,"078° 08' 33.21""""  ","13° 14' 5.12"""" "
-6077103206,5601,railway_station,Nidaghatta,"077° 05' 22.06""""  ","12° 37' 32.74"""" "
-6080255489,5601,railway_station,Byadarahalli,"076° 45' 8.0""""  ","12° 30' 7.17"""" "
-6084009845,5601,railway_station,Belagula,"076° 35' 19.85""""  ","12° 23' 10.04"""" "
-6084067653,5601,railway_station,Dornahalli,"076° 25' 29.62""""  ","12° 25' 58.99"""" "
-6084101469,5601,railway_station,Hampapura,"076° 23' 49.07""""  ","12° 29' 4.2"""" "
-6084108788,5601,railway_station,Hosa Agrahara,"076° 21' 42.14""""  ","12° 34' 12.44"""" "
-6084177172,5601,railway_station,Akkihebbalu,"076° 22' 41.79""""  ","12° 37' 31.61"""" "
-6084408423,5601,railway_station,Mavinakere,"076° 10' 25.27""""  ","12° 50' 41.1"""" "
-6084937213,5601,railway_station,Koravangala,"076° 09' 36.22""""  ","13° 03' 12.16"""" "
-6086235557,5601,railway_station,Balupete,"075° 52' 59.98""""  ","12° 57' 29.03"""" "
-6086984618,5601,railway_station,Harebetta,"075° 37' 19.78""""  ","12° 49' 23.65"""" "
-6087107031,5601,railway_station,Shrivagilu,"075° 35' 41.8""""  ","12° 47' 57.07"""" "
-6087271292,5601,railway_station,Yedamangala,"075° 26' 35.85""""  ","12° 42' 53.96"""" "
-6087290399,5601,railway_station,Narimogaru,"075° 17' 31.62""""  ","12° 44' 44.65"""" "
-6087642665,5601,railway_station,Gollahalli,"077° 25' 2.43""""  ","13° 08' 45.08"""" "
-6087642801,5601,railway_station,Doddabele,"077° 21' 6.73""""  ","13° 13' 0.1"""" "
-6087642829,5601,railway_station,Nidvanda,"077° 16' 22.61""""  ","13° 14' 40.92"""" "
-6089324161,5601,railway_station,Devanur,"076° 05' 34.42""""  ","13° 26' 7.58"""" "
-6089324182,5601,railway_station,Ballekere,"076° 01' 31.5""""  ","13° 29' 56.99"""" "
-6090181905,5601,railway_station,Tolahunse,"075° 57' 52.3""""  ","14° 23' 58.72"""" "
-6091705496,5601,railway_station,Chalgeri,"075° 44' 9.44""""  ","14° 33' 41.12"""" "
-6091738277,5601,railway_station,Devaragudda,"075° 34' 34.13""""  ","14° 40' 5.09"""" "
-6091755111,5601,railway_station,Byadgi,"075° 29' 22.64""""  ","14° 41' 56.96"""" "
-6091805284,5601,railway_station,Karajgi,"075° 24' 30.1""""  ","14° 51' 6.69"""" "
-6091825109,5601,railway_station,Kalsur,"075° 24' 4.14""""  ","14° 53' 14.27"""" "
-6093141810,5601,railway_station,Savanur,"075° 24' 25.26""""  ","14° 57' 46.97"""" "
-6093174608,5601,railway_station,Yalavigi,"075° 24' 39.54""""  ","15° 02' 2.0"""" "
-6093198365,5601,railway_station,Saunshi,"075° 18' 2.09""""  ","15° 12' 12.06"""" "
-6093245291,5601,railway_station,Hubballi South,"075° 10' 31.57""""  ","15° 19' 59.6"""" "
-6094397704,5601,railway_station,Unkal,"075° 07' 30.32""""  ","15° 22' 26.38"""" "
-6094406607,5601,railway_station,Amargol,"075° 05' 53.43""""  ","15° 24' 40.78"""" "
-6094486415,5601,railway_station,Kyarakoppa,"074° 57' 20.96""""  ","15° 27' 18.45"""" "
-6094508951,5601,railway_station,Kambarganvi,"074° 49' 45.88""""  ","15° 27' 48.14"""" "
-6096184502,5601,railway_station,Kashanatti,"074° 47' 0.8""""  ","15° 26' 21.91"""" "
-6097226671,5601,railway_station,Tavargatti,"074° 39' 45.08""""  ","15° 24' 52.46"""" "
-6097245031,5601,railway_station,Nagargali,"074° 37' 16.71""""  ","15° 25' 24.42"""" "
-6097289548,5601,railway_station,Devarayi,"074° 34' 36.54""""  ","15° 27' 13.36"""" "
-6097343534,5601,railway_station,Shivathan,"074° 31' 21.96""""  ","15° 28' 41.09"""" "
-6099768470,5601,railway_station,Gunji,"074° 28' 49.27""""  ","15° 32' 37.5"""" "
-6103822994,5601,railway_station,Suldhal,"074° 40' 41.19""""  ","16° 00' 8.34"""" "
-6103852358,5601,railway_station,Gokak Road,"074° 44' 20.7""""  ","16° 12' 19.35"""" "
-6104941484,5601,railway_station,Chinchli,"074° 51' 12.42""""  ","16° 33' 57.05"""" "
-6105020726,5601,railway_station,Shedbal,"074° 45' 8.87""""  ","16° 43' 12.94"""" "
-6118957143,5601,railway_station,Tippasandra,"077° 07' 7.53""""  ","13° 03' 18.54"""" "
-6119257870,5601,railway_station,Hirisave,"076° 34' 28.34""""  ","12° 56' 49.8"""" "
-6119316709,5601,railway_station,Samudhravalli,"076° 19' 2.76""""  ","12° 56' 34.07"""" "
-6121228283,5601,railway_station,Bellenahalli,"075° 46' 32.13""""  ","13° 44' 33.33"""" "
-6121463260,5601,railway_station,Shimoga Bidare,"075° 38' 26.58""""  ","13° 54' 13.8"""" "
-6121708569,5601,railway_station,Kumsi,"075° 24' 34.02""""  ","14° 03' 24.17"""" "
-6122954434,5601,railway_station,Navalgund Road,"075° 21' 16.97""""  ","15° 26' 6.28"""" "
-6123037063,5601,railway_station,Kondikoppa,"075° 28' 21.26""""  ","15° 25' 51.52"""" "
-6123063472,5601,railway_station,Binkadakatti,"075° 35' 45.93""""  ","15° 26' 12.11"""" "
-6123185543,5601,railway_station,Kanginhal,"075° 43' 10.48""""  ","15° 26' 54.24"""" "
-6123256413,5601,railway_station,Sompur Road,"075° 52' 25.17""""  ","15° 25' 18.17"""" "
-6129724720,5601,railway_station,Kariganuru,"076° 25' 59.97""""  ","15° 15' 5.44"""" "
-6129807083,5601,railway_station,Bayaluvaddigeri,"076° 32' 9.28""""  ","15° 13' 47.96"""" "
-6131954117,5601,railway_station,Kudatini,"076° 45' 48.19""""  ","15° 12' 52.93"""" "
-6132090321,5601,railway_station,Ballari Junction,"076° 55' 24.9""""  ","15° 08' 43.91"""" "
-6132543614,5601,railway_station,Haddinagundu,"076° 58' 58.06""""  ","15° 09' 10.46"""" "
-6132962953,5601,railway_station,Hombala,"075° 34' 39.54""""  ","15° 31' 20.44"""" "
-6133936481,5601,railway_station,Jadarama Kunti,"075° 50' 14.76""""  ","16° 16' 56.33"""" "
-6133948523,5601,railway_station,Kudala Sangama,"075° 53' 33.6""""  ","16° 18' 27.36"""" "
-6133953343,5601,railway_station,Benal,"075° 52' 53.92""""  ","16° 23' 4.78"""" "
-6133966029,5601,railway_station,Wandal,"075° 51' 52.35""""  ","16° 24' 59.27"""" "
-6134274637,5601,railway_station,Mulvad,"075° 44' 49.17""""  ","16° 37' 13.2"""" "
-6134365903,5601,railway_station,Jumnal,"075° 42' 51.08""""  ","16° 43' 18.82"""" "
-6137341047,5601,railway_station,Lachyan,"075° 58' 16.95""""  ","17° 16' 44.26"""" "
-6138406958,5601,railway_station,Sulikeri,"075° 39' 3.1""""  ","16° 07' 22.03"""" "
-6138418380,5601,railway_station,Kajjidoni,"075° 28' 4.89""""  ","16° 09' 51.4"""" "
-6138455049,5601,railway_station,Budagumpa,"076° 17' 49.89""""  ","15° 23' 44.64"""" "
-6138460517,5601,railway_station,Chikkabenakal,"076° 26' 34.2""""  ","15° 25' 42.97"""" "
-6138462358,5601,railway_station,Jabbalagudda,"076° 22' 6.95""""  ","15° 25' 28.2"""" "
-6138507541,5601,railway_station,Vyasanakere,"076° 21' 51.91""""  ","15° 13' 52.27"""" "
-6138518116,5601,railway_station,Vyasa Colony Junction,"076° 23' 0.63""""  ","15° 11' 12.81"""" "
-6138741479,5601,railway_station,Teligi,"075° 53' 51.88""""  ","14° 39' 33.98"""" "
-6138804131,5601,railway_station,Ramgad,"076° 26' 57.24""""  ","15° 07' 1.41"""" "
-6154791613,5601,railway_station,Carmelaram,"077° 42' 21.01""""  ","12° 54' 26.57"""" "
-6161287645,5601,railway_station,Taj Sultanpur,"076° 49' 50.61""""  ","17° 22' 55.57"""" "
-6161287646,5601,railway_station,Bablad,"076° 46' 45.61""""  ","17° 20' 12.61"""" "
-6161287654,5601,railway_station,Savalgi,"076° 42' 38.71""""  ","17° 20' 22.89"""" "
-6161287664,5601,railway_station,Hunsi Hadgil,"076° 38' 48.34""""  ","17° 21' 10.06"""" "
-6161513563,5601,railway_station,Martur,"076° 54' 7.98""""  ","17° 11' 59.07"""" "
-6400857549,5601,railway_station,Baiyappanahalli,"077° 39' 8.5""""  ","12° 59' 26.73"""" "
-6400857550,5601,railway_station,Swami Vivekananda Road,"077° 38' 41.63""""  ","12° 59' 9.35"""" "
-6400857551,5601,railway_station,Indiranagar,"077° 38' 19.18""""  ","12° 58' 42.0"""" "
-6400857552,5601,railway_station,Halasuru,"077° 37' 36.07""""  ","12° 58' 35.4"""" "
-6400857553,5601,railway_station,Trinity,"077° 37' 1.27""""  ","12° 58' 22.88"""" "
-6400857554,5601,railway_station,Mahatma Gandhi Road,"077° 36' 24.44""""  ","12° 58' 31.9"""" "
-6400857555,5601,railway_station,Cubbon Park,"077° 35' 51.27""""  ","12° 58' 51.45"""" "
-6400857556,5601,railway_station,"Dr. B. R. Ambedkar Station, Vidhana Soudha","077° 35' 29.9""""  ","12° 58' 43.47"""" "
-6400857557,5601,railway_station,"Sir M. Visvesvaraya Stn., Central College","077° 35' 3.19""""  ","12° 58' 28.27"""" "
-6400857558,5601,railway_station,"Nadaprabhu Kempegowda Station, Majestic","077° 34' 22.35""""  ","12° 58' 32.55"""" "
-6400857559,5601,railway_station,Krantivira Sangolli Rayanna Railway Station,"077° 33' 55.36""""  ","12° 58' 33.16"""" "
-6400857560,5601,railway_station,Magadi Road,"077° 33' 19.27""""  ","12° 58' 32.28"""" "
-6400857561,5601,railway_station,"Sri Balagangadharanatha Swamiji Station, Hosahalli","077° 32' 44.24""""  ","12° 58' 27.46"""" "
-6400857562,5601,railway_station,Vijayanagar,"077° 32' 14.66""""  ","12° 58' 15.44"""" "
-6400857563,5601,railway_station,Attiguppe,"077° 32' 0.88""""  ","12° 57' 42.82"""" "
-6400857564,5601,railway_station,Deepanjali Nagar,"077° 32' 13.24""""  ","12° 57' 7.41"""" "
-6400857565,5601,railway_station,Mysore Road,"077° 31' 48.57""""  ","12° 56' 48.19"""" "
-6410706688,5601,railway_station,Mantri Square Sampige Road,"077° 34' 14.63""""  ","12° 59' 25.67"""" "
-6410706689,5601,railway_station,Mahakavi Kuvempu Road,"077° 33' 24.83""""  ","12° 59' 54.71"""" "
-6410706690,5601,railway_station,Rajajinagar,"077° 32' 58.76""""  ","13° 00' 1.89"""" "
-6410706691,5601,railway_station,Mahalakshmi,"077° 32' 55.7""""  ","13° 00' 28.97"""" "
-6410706692,5601,railway_station,Sandal Soap Factory,"077° 33' 14.34""""  ","13° 00' 52.76"""" "
-6410706695,5601,railway_station,Peenya,"077° 31' 59.52""""  ","13° 01' 58.87"""" "
-6410706696,5601,railway_station,Peenya Industry,"077° 31' 31.77""""  ","13° 02' 10.74"""" "
-6432710292,5601,railway_station,Yelachenahalli,"077° 34' 12.43""""  ","12° 53' 45.78"""" "
-6432710293,5601,railway_station,Jaya Prakash Nagar,"077° 34' 23.26""""  ","12° 54' 26.91"""" "
-6432710294,5601,railway_station,Banashankari,"077° 34' 24.95""""  ","12° 54' 54.79"""" "
-6432710295,5601,railway_station,Rashtreeya Vidyalaya Road,"077° 34' 48.96""""  ","12° 55' 16.79"""" "
-6432710296,5601,railway_station,Jayanagar,"077° 34' 48.52""""  ","12° 55' 46.22"""" "
-6432710297,5601,railway_station,South  End Circle,"077° 34' 48.2""""  ","12° 56' 17.73"""" "
-6432710298,5601,railway_station,Lalbagh,"077° 34' 48.06""""  ","12° 56' 47.5"""" "
-6432710299,5601,railway_station,National College,"077° 34' 25.28""""  ","12° 57' 1.9"""" "
-6432710300,5601,railway_station,Krishna Rajendra Market,"077° 34' 28.77""""  ","12° 57' 39.16"""" "
-6432710301,5601,railway_station,Chickpete,"077° 34' 28.4""""  ","12° 58' 0.83"""" "
-6589655366,5601,railway_station,Gaudgaon,"076° 31' 52.78""""  ","17° 20' 11.46"""" "
-6594379690,5601,railway_station,Sulehalli,"077° 03' 9.5""""  ","17° 04' 48.28"""" "
-6594497613,5601,railway_station,Kurgunta,"077° 21' 37.23""""  ","17° 11' 31.12"""" "
-6595637959,5601,railway_station,Kamalnagar,"077° 10' 43.41""""  ","18° 14' 26.26"""" "
-6595646246,5601,railway_station,Kalagapura,"077° 11' 37.32""""  ","18° 09' 29.58"""" "
-6595653641,5601,railway_station,Halbarga,"077° 20' 25.87""""  ","17° 58' 29.55"""" "
-6597224132,5601,railway_station,Hallikhed,"077° 16' 37.94""""  ","17° 50' 53.68"""" "
-6597322155,5601,railway_station,Hallikhed K.,"077° 04' 7.13""""  ","17° 40' 16.13"""" "
-6597380047,5601,railway_station,Kamalapura,"076° 58' 46.96""""  ","17° 35' 12.65"""" "
-6597400710,5601,railway_station,Kurukotta,"076° 53' 43.37""""  ","17° 28' 33.65"""" "
-7697676104,5601,railway_station,Linganabandi,"076° 09' 32.03""""  ","15° 41' 57.12"""" "
-9020912154,5601,railway_station,Karatagi,"076° 40' 40.66""""  ","15° 37' 10.81"""" "
-9049846515,5601,railway_station,Jnanabharathi,"077° 30' 44.66""""  ","12° 56' 7.57"""" "
-9050797592,5601,railway_station,Pantharapalya - Nayandahalli,"077° 31' 30.42""""  ","12° 56' 30.02"""" "
-9051395755,5601,railway_station,Kengeri Bus Terminal,"077° 29' 16.28""""  ","12° 54' 52.88"""" "
-9051405243,5601,railway_station,Kengeri,"077° 28' 35.68""""  ","12° 54' 28.48"""" "
-9051410519,5601,railway_station,Rajarajeshwari Nagar,"077° 31' 10.84""""  ","12° 56' 11.76"""" "
-9051417969,5601,railway_station,Pattanagere,"077° 29' 54.06""""  ","12° 55' 27.3"""" "
-9919570131,5601,railway_station,Challaghatta,"077° 27' 40.64""""  ","12° 53' 50.47"""" "
-9919651773,5601,railway_station,Silk Institute,"077° 31' 47.84""""  ","12° 51' 42.23"""" "
-9919651774,5601,railway_station,Thalaghattapura,"077° 32' 18.22""""  ","12° 52' 17.07"""" "
-9919651775,5601,railway_station,Vajarahalli,"077° 32' 41.07""""  ","12° 52' 38.77"""" "
-9919651776,5601,railway_station,Doddakallasandra,"077° 33' 9.92""""  ","12° 53' 4.72"""" "
-9919651777,5601,railway_station,Konanakunte Cross,"077° 33' 45.6""""  ","12° 53' 20.28"""" "
-9954825906,5601,railway_station,Thanisandra,"077° 37' 55.41""""  ","13° 03' 36.34"""" "
-10251526302,5601,railway_station,Mirjan,"074° 25' 29.2""""  ","14° 30' 1.36"""" "
-10252966552,5601,railway_station,Krishnarajapuram,"077° 40' 32.34""""  ","13° 00' 2.16"""" "
-10252989482,5601,railway_station,Shimoga Town,"075° 35' 0.88""""  ","13° 56' 37.54"""" "
-10267368800,5601,railway_station,Halakatta,"076° 59' 30.54""""  ","17° 02' 33.84"""" "
-10693510545,5601,railway_station,Talakal,"075° 59' 13.11""""  ","15° 23' 54.76"""" "
-11834900271,5601,railway_station,Maranayakanahalli,"077° 45' 50.33""""  ","12° 43' 6.99"""" "
-11941173068,5601,railway_station,Nagasandra,"077° 30' 0.51""""  ","13° 02' 52.63"""" "
-11941186869,5601,railway_station,Yeshwantpur,"077° 32' 59.55""""  ","13° 01' 23.76"""" "
-11941186870,5601,railway_station,Kadugodi Tree Park,"077° 44' 49.24""""  ","12° 59' 8.34"""" "
-12514337068,5601,railway_station,Sir M Visvesvaraya Terminal,"077° 38' 28.15""""  ","12° 59' 58.76"""" "
+246397026,5601,railway_station,Bangalore Cantonment,77.5980003,12.9936865
+248543525,5601,railway_station,Bisanattam,78.2498583,12.8422451
+253454039,5601,railway_station,Bengaluru  East,77.6183453,13.0011462
+298609247,5601,railway_station,Mangaluru Junction,74.8792308,12.866628
+298611723,5601,railway_station,Mulki,74.8052727,13.068958
+300062249,5601,railway_station,Padil,74.894361,12.8752966
+308061696,5601,railway_station,Hejjala,77.4183276,12.8484112
+308062102,5601,railway_station,Kengeri,77.4837568,12.9176571
+308062851,5601,railway_station,Nayandahalli,77.5212118,12.9413253
+308073351,5601,railway_station,Chikka Banavara,77.5056373,13.0746787
+338274462,5601,railway_station,Yelahanka Junction,77.5918938,13.1050067
+389475236,5601,railway_station,Thondebhavi,77.5149549,13.503993
+389475413,5601,railway_station,Hirehalli,77.1887827,13.2806649
+389475419,5601,railway_station,Kyatsandra,77.147748,13.3156102
+443807288,5601,railway_station,Banaswadi,77.6281321,13.0058357
+443811552,5601,railway_station,Channasandra,77.6628136,13.0118566
+553051322,5601,railway_station,Chamarajapuram,76.6378623,12.2981544
+571578291,5601,railway_station,Padubidri,74.7680651,13.1969885
+571579127,5601,railway_station,Bhatkal,74.5656301,13.9893566
+571579771,5601,railway_station,Karwar,74.1825906,14.8202478
+582437498,5601,railway_station,Belagavi,74.5089431,15.8490568
+617332502,5601,railway_station,Ramanagaram,77.2837376,12.7210476
+653938640,5601,railway_station,Maddur,77.0496996,12.6046711
+654115832,5601,railway_station,Londa Junction,74.4954976,15.4489495
+654125698,5601,railway_station,Alnavar Junction,74.7383026,15.4245112
+654130310,5601,railway_station,Kundgol,75.2500447,15.2588827
+654132674,5601,railway_station,Ranebennuru,75.6357245,14.625888
+654140148,5601,railway_station,Sambre,74.5772092,15.8843177
+654209479,5601,railway_station,Bhanapur,76.0389709,15.3865703
+655264344,5601,railway_station,Guledgudda Road,75.694556,16.0673054
+655264380,5601,railway_station,Bagalkot,75.6999315,16.1793224
+655290802,5601,railway_station,Almatti,75.9012249,16.3450459
+655301239,5601,railway_station,Vijayapura,75.7394766,16.830361
+659537076,5601,railway_station,Chitradurga,76.3864729,14.2307965
+666623896,5601,railway_station,Shrirangapattana,76.6778732,12.4241441
+667473810,5601,railway_station,Channarayapatna,76.3939638,12.8927148
+669015914,5601,railway_station,Dharwad,75.0019351,15.4424352
+670960045,5601,railway_station,Bantawal,75.0340919,12.8781673
+672726408,5601,railway_station,Minchnal,75.8217834,16.9705608
+672865414,5601,railway_station,Basavana Bagewadi Road,75.8282871,16.4802988
+687187136,5601,railway_station,Yadgir,77.1297018,16.7446491
+687187467,5601,railway_station,Shahabad,76.9433966,17.1219321
+687777818,5601,railway_station,Nanjangud Town,76.6843409,12.1220681
+695074547,5601,railway_station,Heelalige,77.7110736,12.8132888
+695086486,5601,railway_station,Anekal Road,77.7105301,12.723608
+701554068,5601,railway_station,Nimbal,75.8603369,17.1187954
+702374965,5601,railway_station,Bidar,77.5154346,17.9118862
+706967230,5601,railway_station,Kolar,78.1329276,13.123993
+707061042,5601,railway_station,Chamarajanagar,76.9328209,11.9346006
+707126837,5601,railway_station,Kabaka Puttur,75.2047244,12.7687139
+707126938,5601,railway_station,Kadagaravalli,75.696014,12.8380375
+707127170,5601,railway_station,Yedekumeri,75.6640011,12.8232246
+707132579,5601,railway_station,Munirabad,76.3363826,15.3080081
+707255911,5601,railway_station,Talaguppa,74.9144093,14.2143103
+710027160,5601,railway_station,Khanapur Junction,77.3842209,17.9424998
+718549537,5601,railway_station,Chikjajur Junction,76.1398932,14.1238212
+737744285,5601,railway_station,Chikballapur,77.7321433,13.4274405
+738268653,5601,railway_station,Hagari Bommanahalli,76.2087101,15.0499967
+738268811,5601,railway_station,Kotturu,76.2123604,14.8254629
+738269167,5601,railway_station,Ranjitpura,76.5995537,15.0561105
+738274019,5601,railway_station,Swamihalli,76.6089027,14.9761504
+738274431,5601,railway_station,Yeshwanthnagar,76.5027083,15.0393103
+794150286,5601,railway_station,Gubbi,76.9387568,13.3214083
+795583901,5601,railway_station,Sedam,77.2856943,17.1812073
+841763375,5601,railway_station,Dodballapur,77.5505054,13.2796882
+853082530,5601,railway_station,Mallasandra,77.015439,13.3349714
+853131485,5601,railway_station,Tumakuru,77.101958,13.333899
+962987530,5601,railway_station,Davanagere,75.9195682,14.4679807
+992634868,5601,railway_station,Ashokapuram,76.6360115,12.2740878
+992989867,5601,railway_station,Krishnarajasagara,76.5671767,12.4010377
+993005071,5601,railway_station,Naganahalli,76.6507744,12.3786283
+1074968410,5601,railway_station,Nalwar,77.0194415,16.936031
+1102564020,5601,railway_station,Bhadravati,75.7034692,13.8426425
+1110586299,5601,railway_station,Devangonthi,77.8312945,12.9851478
+1126574956,5601,railway_station,Raichur,77.338997,16.1928034
+1134275133,5601,railway_station,Gauribidanur,77.5131354,13.6134495
+1153239543,5601,railway_station,Talaku,76.6750715,14.446083
+1153239740,5601,railway_station,Molakalmuru,76.746219,14.7096429
+1153239883,5601,railway_station,Arsikere Junction,76.253199,13.3137821
+1153239903,5601,railway_station,Daroji,76.7011143,15.2266609
+1153239943,5601,railway_station,Toranagallu Junction,76.6631417,15.2029326
+1153239946,5601,railway_station,Challakere,76.6599323,14.3152223
+1153240249,5601,railway_station,Gadiganuru,76.5992329,15.2185465
+1153255888,5601,railway_station,Koppala,76.144906,15.3538691
+1172868014,5601,railway_station,Kadur Junction,76.0087022,13.5502511
+1172868016,5601,railway_station,Chikkamagaluru,75.7887158,13.3032152
+1177155562,5601,railway_station,Baiyyappanahalli Junction,77.6517139,12.9912092
+1177705836,5601,railway_station,Whitefield,77.7614229,12.9963995
+1191359734,5601,railway_station,Khanapur,74.4997035,15.6377745
+1225732184,5601,railway_station,Ambewadi,74.6174336,15.2729107
+1282829831,5601,railway_station,Devanahalli,77.7054075,13.2475421
+1365827451,5601,railway_station,Kadakola,76.663885,12.1908198
+1368272943,5601,railway_station,Sagar Jambagaru,75.0235133,14.1700827
+1377759098,5601,railway_station,Navalur,75.0562035,15.4152099
+1384237103,5601,railway_station,Kumta,74.421244,14.4372403
+1384317801,5601,railway_station,Gokarna Road,74.3677286,14.5838472
+1384974167,5601,railway_station,Honnavar,74.432402,14.3159009
+1404460876,5601,railway_station,Sidlagatta,77.8641538,13.3920709
+1422424831,5601,railway_station,Udupi,74.7708331,13.3360724
+1462153602,5601,railway_station,Gadag Junction,75.6421607,15.4364738
+1463736886,5601,railway_station,Lottegollahalli,77.5630839,13.04347
+1465593508,5601,railway_station,Hulkoti,75.5288841,15.4331872
+1467829837,5601,railway_station,Harihar,75.8110476,14.5153541
+1472190894,5601,railway_station,Chikodi Road,74.769678,16.3719952
+1473027333,5601,railway_station,Narasambudhi,76.7495015,12.0755193
+1489649987,5601,railway_station,Pandavapura,76.681066,12.4637766
+1491693696,5601,railway_station,Malkhaid Road,77.1743037,17.14741
+1516238750,5601,railway_station,Kudachi,74.858412,16.6242898
+1516238751,5601,railway_station,Ugar Khurd,74.8210318,16.6701203
+1516239415,5601,railway_station,Raybag,74.8071115,16.4837048
+1561036161,5601,railway_station,Hosapete Junction,76.3865828,15.2865355
+1576973953,5601,railway_station,Madavara,77.4728055,13.0574214
+1576973954,5601,railway_station,Chikkabidarakallu,77.4879154,13.0523616
+1576973980,5601,railway_station,Manjunathanagara,77.4944461,13.0500898
+1596062941,5601,railway_station,Humanabad,77.1393693,17.7715078
+1600080681,5601,railway_station,Balganur,75.6027691,15.5947037
+1604664691,5601,railway_station,Banni Koppa,75.9417526,15.4064974
+1636610854,5601,railway_station,Tiptur,76.4756333,13.2557594
+1670052496,5601,railway_station,Gudageri,75.3595529,15.1245973
+1672987435,5601,railway_station,Sakleshpur,75.7789505,12.9453765
+1676721983,5601,railway_station,Ganagapur Road,76.5895026,17.3407458
+1678218711,5601,railway_station,Asnoti,74.1475931,14.8762904
+1682747882,5601,railway_station,Indi Road,75.9188694,17.2108496
+1688119769,5601,railway_station,Castle Rock,74.3338925,15.3987528
+1688172817,5601,railway_station,Mayakonda,76.087015,14.2779835
+1692785682,5601,railway_station,Surathkal,74.8054148,12.9901479
+1696139855,5601,railway_station,Krishnaraja Nagar,76.3884189,12.4449928
+1699868072,5601,railway_station,Bisale Halli,75.9670469,13.4814284
+1715653825,5601,railway_station,Hole Alur,75.6467462,15.82027
+1716178626,5601,railway_station,Kundapura,74.7286856,13.6133737
+1722769520,5601,railway_station,Coromandel,78.2578048,12.9756551
+1722803892,5601,railway_station,Yediyur,76.8638604,12.9790006
+1783231964,5601,railway_station,Hole Narsipur,76.2466335,12.7853649
+1801510237,5601,railway_station,Banasandra,76.6606063,13.2655514
+1801510305,5601,railway_station,Ammasandra,76.7120658,13.2649378
+1814580873,5601,railway_station,Kardi,76.5723116,13.2671928
+1814581414,5601,railway_station,Banashankari,76.5246534,13.2666425
+1818646444,5601,railway_station,Sampige Road,76.762269,13.2709635
+1818651789,5601,railway_station,Nittur,76.8559516,13.3026477
+1844248845,5601,railway_station,Oorgaum,78.2599832,12.9542839
+1852780582,5601,railway_station,Desur,74.4985633,15.7528535
+1861233135,5601,railway_station,Channapatna,77.2038931,12.6593727
+1888282487,5601,railway_station,Murdeshwar,74.505423,14.1008191
+1923477242,5601,railway_station,Birur Junction,75.973015,13.5932294
+1966508764,5601,railway_station,Masarahalli,75.7305784,13.8105863
+1967082966,5601,railway_station,Donigal,75.7348087,12.904538
+1976851798,5601,railway_station,Honnavalli Road,76.3683093,13.2753915
+1984385300,5601,railway_station,Neralakatte,75.1272562,12.8167572
+2034603706,5601,railway_station,Nelamangala,77.3925031,13.1121865
+2101360284,5601,railway_station,Yermaras,77.3472568,16.2726945
+2122590354,5601,railway_station,Sakharayapatna,75.9278539,13.4299605
+2129092124,5601,railway_station,Harapanahalli,75.9852467,14.7737676
+2140205532,5601,railway_station,Bidadi,77.3901726,12.8006228
+2266574834,5601,railway_station,Aralaguppe,76.6134466,13.2532244
+2269517698,5601,railway_station,Banavar,76.140481,13.3958245
+2418722563,5601,railway_station,Anandapuram,75.2098567,14.0747445
+2428405498,5601,railway_station,Ghataprabha,74.7599301,16.2409832
+2454214993,5601,railway_station,Nandikoor,74.8060452,13.1326378
+2486823395,5601,railway_station,Malur,77.9387371,12.992853
+2528520392,5601,railway_station,Hirenanduru,76.8721408,17.2581814
+2548066537,5601,railway_station,Ankola,74.3319253,14.6453588
+2548066547,5601,railway_station,Barkur,74.7598682,13.4770273
+2548066552,5601,railway_station,Bijoor,74.6426189,13.8220069
+2548066555,5601,railway_station,Harwada,74.2593983,14.7403901
+2548066556,5601,railway_station,Manki,74.493679,14.1746437
+2548066558,5601,railway_station,Senapura,74.6844721,13.717875
+2554438211,5601,railway_station,Haveri,75.4111439,14.7947529
+2559416716,5601,railway_station,Hunasenahalli,77.9467135,13.4003265
+2559419936,5601,railway_station,Chintamani,78.0539956,13.4109883
+2591684348,5601,railway_station,Thokur,74.8295413,12.9634227
+2629037602,5601,railway_station,Hanakere,76.9810211,12.5655888
+2669084978,5601,railway_station,Krantivira Sangolli Rayanna (Bengaluru),77.5695603,12.9781739
+2669084989,5601,railway_station,Hubballi Junction,75.1492279,15.3501209
+2671295574,5601,railway_station,Mangaluru Central,74.8432387,12.8634037
+2671295575,5601,railway_station,Mysore Junction,76.6451158,12.3157394
+2850694071,5601,railway_station,Bageshapura,76.2293373,13.1432231
+2958815992,5601,railway_station,Lingeri,77.189729,16.6687646
+2958863878,5601,railway_station,Saidapur,77.2500033,16.5707868
+2967308931,5601,railway_station,Yesvantpur Junction,77.5507701,13.0237734
+2967312447,5601,railway_station,Hebbal,77.5862489,13.0425476
+2970003323,5601,railway_station,Chiksugur,77.3448444,16.3359279
+2970003324,5601,railway_station,Yadalapur,77.3274559,16.3849158
+2973023222,5601,railway_station,Matmari,77.3024789,16.0464993
+2973023223,5601,railway_station,Marichethal,77.3094389,16.109887
+3057101107,5601,railway_station,Thangundi,77.0679504,16.8034007
+3074998903,5601,railway_station,Kodaganuru,76.0336037,14.3303635
+3075002340,5601,railway_station,Sasalu,76.1150208,14.2111076
+3165126694,5601,railway_station,Tunga Bhadra Dam,76.354187,15.2630215
+3191826727,5601,railway_station,Sivapur,75.9283506,13.6704657
+3191826728,5601,railway_station,Tarikere Junction,75.8118573,13.7119449
+3198271987,5601,railway_station,Amaravathi Colony Junction,75.8521246,14.4989804
+3220285971,5601,railway_station,Shantigrama,76.2054601,12.9846174
+3470837085,5601,railway_station,Shravanabelagola,76.4656686,12.8713931
+3470859796,5601,railway_station,Hassan Junction,76.1173868,13.0033872
+3500758393,5601,railway_station,Mandya,76.8967003,12.5288845
+3751576373,5601,railway_station,Muddalinganahalli,77.2944316,13.2428587
+3753356903,5601,railway_station,Habhanghatta,76.2499898,13.2270123
+3879960394,5601,railway_station,Mugad,74.9049364,15.4476671
+4011081968,5601,railway_station,Ginigera,76.2475769,15.3479803
+4028153528,5601,railway_station,Bannihatti,76.6223608,15.1444664
+4028158801,5601,railway_station,Papinayaknahalli,76.4907833,15.2356817
+4029017821,5601,railway_station,Tinai Ghat,74.4024105,15.448667
+4108417932,5601,railway_station,Malleswaram,77.563476,13.0006306
+4133754822,5601,railway_station,Marikuppam,78.263739,12.9187951
+4142582908,5601,railway_station,Srinivasapura,78.2067074,13.3288336
+4313065921,5601,railway_station,Chittapura,77.0905343,17.1198421
+4314660390,5601,railway_station,Ballari Cantonment,76.8835118,15.1582519
+4316145885,5601,railway_station,Yeliyur,76.8286606,12.5098958
+4340278527,5601,railway_station,Kulali,76.4704729,17.3572346
+4397913105,5601,railway_station,Bennihalli,76.1190259,14.7875992
+4411002319,5601,railway_station,Kalaburagi Junction,76.8256326,17.3149291
+4450926674,5601,railway_station,Mallapur,75.6107402,15.672561
+4569877375,5601,railway_station,Ullal,74.8548862,12.7923655
+4597665378,5601,railway_station,Holalkere,76.1309051,14.040202
+4597673369,5601,railway_station,Ramagiri,76.1254906,13.9482742
+4597679145,5601,railway_station,Hosadurga Road,76.1331193,13.8626439
+4597684205,5601,railway_station,Shivani,76.0587021,13.8117391
+4597685294,5601,railway_station,Ajjampura,76.0102985,13.7310791
+4597696823,5601,railway_station,Nagavangala,75.9915923,13.6645854
+4597939355,5601,railway_station,Amritapura,76.2438872,14.1392581
+4615639310,5601,railway_station,Balenahalli,76.5545989,14.2444721
+4615790622,5601,railway_station,Bommagundanakere,76.6803357,14.5878063
+4705536596,5601,railway_station,Bhalki,77.2281379,18.0470691
+4757898320,5601,railway_station,Solur,77.2586709,13.0698018
+4761087279,5601,railway_station,Wadi Junction,76.9918953,17.0522945
+4838807292,5601,railway_station,Adihalli,76.3259959,13.2961129
+4855254016,5601,railway_station,Alur,76.0004054,12.9817317
+4914851718,5601,railway_station,Lakhmapur,75.6272151,15.8698853
+5005536730,5601,railway_station,Kunigal,77.0110836,13.0166441
+5186077698,5601,railway_station,Kamasamudram,78.2005632,12.8804954
+5239591121,5601,railway_station,Shiroor,74.5942465,13.9309723
+5277139349,5601,railway_station,Mandagere,76.3790072,12.7295294
+5303386567,5601,railway_station,Rajanukunte,77.5655922,13.1746304
+5303386568,5601,railway_station,Oddarahalli,77.5411191,13.3460589
+5303386569,5601,railway_station,Makalidurga,77.5098199,13.409934
+5303386570,5601,railway_station,Someshwara,77.5127185,13.5603461
+5358242144,5601,railway_station,Pachhapur,74.6709339,16.0804478
+5358242178,5601,railway_station,Sulebhavi,74.638029,15.9112218
+5416750422,5601,railway_station,B.G Nagar,76.7331266,12.9682877
+5679106393,5601,railway_station,Harlapur,75.7998678,15.4355595
+5679128581,5601,railway_station,Kyatanakeri Road,75.8205342,17.0524074
+5704202636,5601,railway_station,Sagarakatte,76.478574,12.4230948
+5760183640,5601,railway_station,Tyakal,78.0711128,12.9845826
+5760183667,5601,railway_station,Bangarpet Junction,78.178224,12.9854946
+5760197744,5601,railway_station,Whitefield (Kadugodi),77.7579489,12.9957428
+5760197745,5601,railway_station,Hopefarm Channasandra,77.7538033,12.9873426
+5760197749,5601,railway_station,Pattandur Agrahara,77.7377718,12.9876393
+5760197751,5601,railway_station,Sri Sathya Sai Hospital,77.7275361,12.9811949
+5760197754,5601,railway_station,Nallurahalli,77.7248845,12.9766408
+5760197755,5601,railway_station,Kundalahalli,77.7155586,12.977594
+5760197757,5601,railway_station,Seetharampalya,77.7087854,12.9808558
+5760197761,5601,railway_station,Hoodi,77.711326,12.9888029
+5760197762,5601,railway_station,Garudacharpalya,77.7036768,12.9934505
+5760197764,5601,railway_station,Singayyanapalya,77.6927176,12.9965445
+5760197765,5601,railway_station,Krishnarajapura,77.6776703,12.9999024
+5760197766,5601,railway_station,Benniganahalli,77.6684619,12.9965158
+5764377154,5601,railway_station,Virapur,77.1320096,15.1588657
+5764377157,5601,railway_station,Hagari,77.0552612,15.1510967
+5764377544,5601,railway_station,Kusugal,75.2285053,15.3721634
+5764377675,5601,railway_station,Hebsur,75.2859178,15.4232161
+5764378051,5601,railway_station,Annigeri,75.4335393,15.4324315
+5960788724,5601,railway_station,Dasarahalli,77.5125535,13.0432607
+5960788725,5601,railway_station,Jalahalli,77.5197351,13.0394104
+5960788726,5601,railway_station,Srirampura,77.5631963,12.9965253
+6050412687,5601,railway_station,Jokatte,74.8535658,12.9596467
+6064361419,5601,railway_station,Varadapura,78.1914439,12.9224513
+6065355651,5601,railway_station,Maralahalli,78.1243571,12.9869491
+6065388673,5601,railway_station,Byatrayanahalli,78.0174938,12.9955268
+6068833789,5601,railway_station,Chinnakotte,78.2261746,12.9812267
+6068892361,5601,railway_station,Champion,78.2629408,12.9363711
+6069958871,5601,railway_station,Viduraswattha,77.5094754,13.6665515
+6072074301,5601,railway_station,Gottihalli,78.1425591,13.2347559
+6077103206,5601,railway_station,Nidaghatta,77.0894614,12.62576
+6080255489,5601,railway_station,Byadarahalli,76.7522213,12.501991
+6084009845,5601,railway_station,Belagula,76.5888472,12.3861225
+6084067653,5601,railway_station,Dornahalli,76.4248931,12.4330533
+6084101469,5601,railway_station,Hampapura,76.3969627,12.4844992
+6084108788,5601,railway_station,Hosa Agrahara,76.3617065,12.5701214
+6084177172,5601,railway_station,Akkihebbalu,76.3782747,12.6254482
+6084408423,5601,railway_station,Mavinakere,76.1736855,12.8447499
+6084937213,5601,railway_station,Koravangala,76.1600621,13.0533768
+6086235557,5601,railway_station,Balupete,75.8833282,12.9580647
+6086984618,5601,railway_station,Harebetta,75.6221619,12.8232355
+6087107031,5601,railway_station,Shrivagilu,75.5949442,12.7991869
+6087271292,5601,railway_station,Yedamangala,75.4432909,12.7149897
+6087290399,5601,railway_station,Narimogaru,75.2921166,12.7457355
+6087642665,5601,railway_station,Gollahalli,77.4173425,13.1458556
+6087642801,5601,railway_station,Doddabele,77.3518686,13.2166956
+6087642829,5601,railway_station,Nidvanda,77.2729459,13.2446998
+6089324161,5601,railway_station,Devanur,76.0928931,13.4354386
+6089324182,5601,railway_station,Ballekere,76.0254157,13.4991629
+6090181905,5601,railway_station,Tolahunse,75.9645268,14.3996434
+6091705496,5601,railway_station,Chalgeri,75.7359556,14.5614215
+6091738277,5601,railway_station,Devaragudda,75.5761486,14.6680815
+6091755111,5601,railway_station,Byadgi,75.489622,14.6991545
+6091805284,5601,railway_station,Karajgi,75.4083606,14.8518571
+6091825109,5601,railway_station,Kalsur,75.4011491,14.8872972
+6093141810,5601,railway_station,Savanur,75.4070173,14.9630481
+6093174608,5601,railway_station,Yalavigi,75.4109841,15.0338879
+6093198365,5601,railway_station,Saunshi,75.3005792,15.2033507
+6093245291,5601,railway_station,Hubballi South,75.175436,15.3332215
+6094397704,5601,railway_station,Unkal,75.1250879,15.3739934
+6094406607,5601,railway_station,Amargol,75.0981742,15.4113287
+6094486415,5601,railway_station,Kyarakoppa,74.9558211,15.4551258
+6094508951,5601,railway_station,Kambarganvi,74.8294122,15.4633718
+6096184502,5601,railway_station,Kashanatti,74.7835553,15.439419
+6097226671,5601,railway_station,Tavargatti,74.6625227,15.4145725
+6097245031,5601,railway_station,Nagargali,74.6213086,15.4234498
+6097289548,5601,railway_station,Devarayi,74.5768179,15.4537123
+6097343534,5601,railway_station,Shivathan,74.522768,15.4780814
+6099768470,5601,railway_station,Gunji,74.4803525,15.5437511
+6103822994,5601,railway_station,Suldhal,74.6781089,16.0023177
+6103852358,5601,railway_station,Gokak Road,74.7390834,16.2053739
+6104941484,5601,railway_station,Chinchli,74.8534502,16.5658466
+6105020726,5601,railway_station,Shedbal,74.7524628,16.7202607
+6118957143,5601,railway_station,Tippasandra,77.1187579,13.0551506
+6119257870,5601,railway_station,Hirisave,76.5745378,12.9471671
+6119316709,5601,railway_station,Samudhravalli,76.3174321,12.9427962
+6121228283,5601,railway_station,Bellenahalli,75.7755906,13.7425903
+6121463260,5601,railway_station,Shimoga Bidare,75.6407153,13.9038334
+6121708569,5601,railway_station,Kumsi,75.4094498,14.0567125
+6122954434,5601,railway_station,Navalgund Road,75.3547149,15.435078
+6123037063,5601,railway_station,Kondikoppa,75.4725734,15.4309771
+6123063472,5601,railway_station,Binkadakatti,75.5960923,15.4366971
+6123185543,5601,railway_station,Kanginhal,75.7195787,15.448401
+6123256413,5601,railway_station,Sompur Road,75.8736581,15.4217137
+6129724720,5601,railway_station,Kariganuru,76.4333246,15.2515098
+6129807083,5601,railway_station,Bayaluvaddigeri,76.535912,15.2299894
+6131954117,5601,railway_station,Kudatini,76.7633856,15.214703
+6132090321,5601,railway_station,Ballari Junction,76.9235821,15.1455319
+6132543614,5601,railway_station,Haddinagundu,76.9827935,15.1529042
+6132962953,5601,railway_station,Hombala,75.5776487,15.5223437
+6133936481,5601,railway_station,Jadarama Kunti,75.837433,16.2823129
+6133948523,5601,railway_station,Kudala Sangama,75.892666,16.3075995
+6133953343,5601,railway_station,Benal,75.8816448,16.3846617
+6133966029,5601,railway_station,Wandal,75.8645412,16.4164627
+6134274637,5601,railway_station,Mulvad,75.7469923,16.6203342
+6134365903,5601,railway_station,Jumnal,75.7141891,16.721894
+6137341047,5601,railway_station,Lachyan,75.9713756,17.2789625
+6138406958,5601,railway_station,Sulikeri,75.6508601,16.122787
+6138418380,5601,railway_station,Kajjidoni,75.4680255,16.164278
+6138455049,5601,railway_station,Budagumpa,76.2971916,15.3957344
+6138460517,5601,railway_station,Chikkabenakal,76.442833,15.4286036
+6138462358,5601,railway_station,Jabbalagudda,76.3685975,15.4245005
+6138507541,5601,railway_station,Vyasanakere,76.3644203,15.2311866
+6138518116,5601,railway_station,Vyasa Colony Junction,76.3835082,15.1868926
+6138741479,5601,railway_station,Teligi,75.8977441,14.65944
+6138804131,5601,railway_station,Ramgad,76.4492328,15.1170587
+6154791613,5601,railway_station,Carmelaram,77.7058349,12.9073815
+6161287645,5601,railway_station,Taj Sultanpur,76.8307251,17.3821029
+6161287646,5601,railway_station,Bablad,76.7793374,17.3368349
+6161287654,5601,railway_station,Savalgi,76.710754,17.3396908
+6161287664,5601,railway_station,Hunsi Hadgil,76.6467619,17.352794
+6161513563,5601,railway_station,Martur,76.9022155,17.199742
+6400857549,5601,railway_station,Baiyappanahalli,77.6523612,12.9907594
+6400857550,5601,railway_station,Swami Vivekananda Road,77.644897,12.9859306
+6400857551,5601,railway_station,Indiranagar,77.6386612,12.9783325
+6400857552,5601,railway_station,Halasuru,77.626686,12.9764992
+6400857553,5601,railway_station,Trinity,77.6170205,12.9730218
+6400857554,5601,railway_station,Mahatma Gandhi Road,77.6067902,12.9755264
+6400857555,5601,railway_station,Cubbon Park,77.5975756,12.9809575
+6400857556,5601,railway_station,"Dr. B. R. Ambedkar Station, Vidhana Soudha",77.5916385,12.9787419
+6400857557,5601,railway_station,"Sir M. Visvesvaraya Stn., Central College",77.58422,12.9745197
+6400857558,5601,railway_station,"Nadaprabhu Kempegowda Station, Majestic",77.5728757,12.9757079
+6400857559,5601,railway_station,Krantivira Sangolli Rayanna Railway Station,77.5653767,12.9758768
+6400857560,5601,railway_station,Magadi Road,77.5553523,12.975632
+6400857561,5601,railway_station,"Sri Balagangadharanatha Swamiji Station, Hosahalli",77.5456215,12.9742933
+6400857562,5601,railway_station,Vijayanagar,77.5374044,12.9709559
+6400857563,5601,railway_station,Attiguppe,77.5335788,12.9618931
+6400857564,5601,railway_station,Deepanjali Nagar,77.5370122,12.9520578
+6400857565,5601,railway_station,Mysore Road,77.5301588,12.9467183
+6410706688,5601,railway_station,Mantri Square Sampige Road,77.5707293,12.9904629
+6410706689,5601,railway_station,Mahakavi Kuvempu Road,77.5568986,12.9985297
+6410706690,5601,railway_station,Rajajinagar,77.5496568,13.0005247
+6410706691,5601,railway_station,Mahalakshmi,77.5488066,13.0080475
+6410706692,5601,railway_station,Sandal Soap Factory,77.5539839,13.0146544
+6410706695,5601,railway_station,Peenya,77.533201,13.0330189
+6410706696,5601,railway_station,Peenya Industry,77.5254924,13.0363176
+6432710292,5601,railway_station,Yelachenahalli,77.5701194,12.8960498
+6432710293,5601,railway_station,Jaya Prakash Nagar,77.5731279,12.9074747
+6432710294,5601,railway_station,Banashankari,77.573598,12.9152208
+6432710295,5601,railway_station,Rashtreeya Vidyalaya Road,77.5802659,12.921331
+6432710296,5601,railway_station,Jayanagar,77.5801439,12.9295069
+6432710297,5601,railway_station,South  End Circle,77.5800556,12.9382573
+6432710298,5601,railway_station,Lalbagh,77.580016,12.9465265
+6432710299,5601,railway_station,National College,77.5736898,12.9505266
+6432710300,5601,railway_station,Krishna Rajendra Market,77.5746578,12.9608788
+6432710301,5601,railway_station,Chickpete,77.5745566,12.9668974
+6589655366,5601,railway_station,Gaudgaon,76.5313269,17.3365174
+6594379690,5601,railway_station,Sulehalli,77.0526396,17.0800776
+6594497613,5601,railway_station,Kurgunta,77.3603407,17.1919786
+6595637959,5601,railway_station,Kamalnagar,77.1787242,18.2406264
+6595646246,5601,railway_station,Kalagapura,77.1937008,18.158217
+6595653641,5601,railway_station,Halbarga,77.3405192,17.9748757
+6597224132,5601,railway_station,Hallikhed,77.2772066,17.8482455
+6597322155,5601,railway_station,Hallikhed K.,77.0686483,17.6711467
+6597380047,5601,railway_station,Kamalapura,76.9797103,17.586846
+6597400710,5601,railway_station,Kurukotta,76.8953794,17.4760126
+7697676104,5601,railway_station,Linganabandi,76.1588977,15.6991994
+9020912154,5601,railway_station,Karatagi,76.6779613,15.6196684
+9049846515,5601,railway_station,Jnanabharathi,77.5124063,12.9354357
+9050797592,5601,railway_station,Pantharapalya - Nayandahalli,77.5251166,12.9416715
+9051395755,5601,railway_station,Kengeri Bus Terminal,77.4878557,12.914689
+9051405243,5601,railway_station,Kengeri,77.4765784,12.9079105
+9051410519,5601,railway_station,Rajarajeshwari Nagar,77.5196788,12.9365996
+9051417969,5601,railway_station,Pattanagere,77.4983509,12.9242505
+9919570131,5601,railway_station,Challaghatta,77.4612877,12.8973539
+9919651773,5601,railway_station,Silk Institute,77.5299545,12.8617298
+9919651774,5601,railway_station,Thalaghattapura,77.5383958,12.8714097
+9919651775,5601,railway_station,Vajarahalli,77.5447414,12.8774369
+9919651776,5601,railway_station,Doddakallasandra,77.5527546,12.8846435
+9919651777,5601,railway_station,Konanakunte Cross,77.5626665,12.8889671
+9954825906,5601,railway_station,Thanisandra,77.632058,13.0600945
+10251526302,5601,railway_station,Mirjan,74.4247789,14.5003782
+10252966552,5601,railway_station,Krishnarajapuram,77.6756492,13.0005993
+10252989482,5601,railway_station,Shimoga Town,75.5835775,13.9437623
+10267368800,5601,railway_station,Halakatta,76.9918172,17.0427321
+10693510545,5601,railway_station,Talakal,75.986976,15.3985453
+11834900271,5601,railway_station,Maranayakanahalli,77.7639797,12.7186094
+11941173068,5601,railway_station,Nagasandra,77.5001422,13.0479536
+11941186869,5601,railway_station,Yeshwantpur,77.5498751,13.0232678
+11941186870,5601,railway_station,Kadugodi Tree Park,77.7470121,12.9856503
+12514337068,5601,railway_station,Sir M Visvesvaraya Terminal,77.6411538,12.999655
